@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4aee305e75c3bd14eb72aa496c397ed7, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: 
+  m_levelsTime: 200
+  m_gridWidth: 31
+  m_gridHeight: 13
+  m_destroyableWall: 48
+  _playerStartPos: {x: 1, y: 11}
+  m_enemyCount: 4
+  m_enemyTypesList:
+  - {fileID: 11400000, guid: f258bbb74d66c164d8ac56d127b35e0d, type: 2}
+  - {fileID: 11400000, guid: fc637a1b32ee9cc4c80083127e2080e4, type: 2}
+  m_starterGrid:
+  - {x: 1, y: 10}
+  - {x: 1, y: 11}
+  - {x: 3, y: 11}

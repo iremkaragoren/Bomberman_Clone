@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 371c99566682aef46b5f77b075f8e394, type: 3}
+  m_Name: PurpleEnemy
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 6457895090238899318, guid: 72bcc580982db834ea58eafa5f864eb0, type: 3}
+  m_amountRaycast: 2
+  m_enemyType: 2

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4c95876fa487d947a3d46726769f4be, type: 3}
+  m_Name: FullFire_SO
+  m_EditorClassIdentifier: 
+  m_powerUpGO: {fileID: 865724846149502807, guid: c64864d1c323aba468064c9bb54049f1, type: 3}
+  _powerUpTypes: 0
+  amountToIncrease: 1
